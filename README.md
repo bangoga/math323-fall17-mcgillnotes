@@ -1,2 +1,2 @@
 # Math323_Fall17
-Notes
+Collection of notes for 2017 Fall Math 323. 
