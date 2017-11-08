@@ -4,7 +4,7 @@ Collection of notes for 2017 Fall Math 323.
 
 | Day              | Link          |
 | -------------    | ------------- |
-| Day 1 : Sept 5   | Content Cell  |
+| Day 1 : Sept 5   | [I'm an inline-style link](https://www.google.com)  |
 | Day 2 : Sept 7   | Content Cell  |
 | Day 3 : Sept 12  | Content Cell  |
 | Day 4 : Sept 14  | Content Cell  |
