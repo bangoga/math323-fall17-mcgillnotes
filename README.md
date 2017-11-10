@@ -22,3 +22,6 @@ Collection of notes for 2017 Fall Math 323.
 | Day 16 : Nove 31 | [Day 16](https://github.com/bangoga/Math323_Fall17/blob/master/Class%20Notes/Day_16%20(After%20Mid%20Term).pdf)  |
 | Day 17 : Nove 2  | [Day 17](https://github.com/bangoga/Math323_Fall17/blob/master/Class%20Notes/Day_17.pdf)  |
 | Day 18 : Nove 7  |   |
+
+
+| Going to upload all the proof in a this file |   
