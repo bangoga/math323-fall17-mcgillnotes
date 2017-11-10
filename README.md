@@ -1,6 +1,11 @@
 # Math323_Fall17
 Collection of notes for 2017 Fall Math 323. 
 
+| Going to upload all the proof in a this file          |                   
+| -------------                                         |
+|[Proof List](https://github.com/bangoga/Math323_Fall17/blob/master/Proofs.pdf)|   
+
+
 
 | Day              | Link          |                   
 | -------------    | ------------- |
@@ -25,6 +30,3 @@ Collection of notes for 2017 Fall Math 323.
 
 
 
-| Going to upload all the proof in a this file          |                   
-| -------------                                         |
-|[Proof List](https://github.com/bangoga/Math323_Fall17/blob/master/Proofs.pdf)|   
