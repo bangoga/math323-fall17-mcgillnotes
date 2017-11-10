@@ -19,12 +19,12 @@ Collection of notes for 2017 Fall Math 323.
 | Day 8 : Sept 28  | [Day 8](https://github.com/bangoga/Math323_Fall17/blob/master/Class%20Notes/Day_8.pdf)  | |
 | Day 9 : Octo 3   | [Day 9](https://github.com/bangoga/Math323_Fall17/blob/master/Class%20Notes/Day_9.pdf)  | |
 | Day 10 : Octo 5  | [Day 10](https://github.com/bangoga/Math323_Fall17/blob/master/Class%20Notes/Day_10.pdf)  | |
-| Day 11 : Nove 10 | [Day 11](https://github.com/bangoga/Math323_Fall17/blob/master/Class%20Notes/Day_11.pdf)  | |
-| Day 12 : Nove 13 | [Day 12](https://github.com/bangoga/Math323_Fall17/blob/master/Class%20Notes/Day_12.pdf)  | |
-| Day 13 : Nove 17 | [Day 13](https://github.com/bangoga/Math323_Fall17/blob/master/Class%20Notes/day%2013.pdf)  | |
-| Day 14 : Nove 19 | [Day 14](https://github.com/bangoga/Math323_Fall17/blob/master/Class%20Notes/Day_14.pdf)  | |
-| Day 15 : Nove 24 | [Day 15](https://github.com/bangoga/Math323_Fall17/blob/master/Class%20Notes/Day_15.pdf)  | |
-| Day 16 : Nove 31 | [Day 16](https://github.com/bangoga/Math323_Fall17/blob/master/Class%20Notes/Day_16%20(After%20Mid%20Term).pdf)  | |
+| Day 11 : Octo 10 | [Day 11](https://github.com/bangoga/Math323_Fall17/blob/master/Class%20Notes/Day_11.pdf)  | |
+| Day 12 : Octo 13 | [Day 12](https://github.com/bangoga/Math323_Fall17/blob/master/Class%20Notes/Day_12.pdf)  | |
+| Day 13 : Octo 17 | [Day 13](https://github.com/bangoga/Math323_Fall17/blob/master/Class%20Notes/day%2013.pdf)  | |
+| Day 14 : Octo 19 | [Day 14](https://github.com/bangoga/Math323_Fall17/blob/master/Class%20Notes/Day_14.pdf)  | |
+| Day 15 : Octo 24 | [Day 15](https://github.com/bangoga/Math323_Fall17/blob/master/Class%20Notes/Day_15.pdf)  | |
+| Day 16 : Octo 31 | [Day 16](https://github.com/bangoga/Math323_Fall17/blob/master/Class%20Notes/Day_16%20(After%20Mid%20Term).pdf)  | Page 160 to 171 |
 | Day 17 : Nove 2  | [Day 17](https://github.com/bangoga/Math323_Fall17/blob/master/Class%20Notes/Day_17.pdf)  | |
 | Day 18 : Nove 7  |   | |
 
