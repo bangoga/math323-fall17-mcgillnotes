@@ -2,7 +2,8 @@
 Collection of notes for 2017 Fall Math 323. 
 
 
-| Day              | Link          |                                                                                 
+| Day              | Link          |    | Going to upload all the proof in a this file          |                                             
+                                         | -------------                                         |                                                     
 | -------------    | ------------- | 
 | Day 1 : Sept 5   | [Day 1](https://github.com/bangoga/Math323_Fall17/blob/master/Class%20Notes/Day_1.pdf)  |
 | Day 2 : Sept 7   | [Day 2](https://github.com/bangoga/Math323_Fall17/blob/master/Class%20Notes/Day_2.pdf)  |
@@ -25,5 +26,3 @@ Collection of notes for 2017 Fall Math 323.
 
 
 
-| Going to upload all the proof in a this file          |                                                                                 
-| -------------                                         | 
